@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/mpbalmeida/mssc-beer-inventory-marcos.svg?style=shield)](<https://app.circleci.com/pipelines/github/mpbalmeida/mssc-beer-inventory-marcos>)
 [![codecov](https://codecov.io/gh/mpbalmeida/mssc-beer-inventory-marcos/branch/master/graph/badge.svg?token=3E0U8ISE4Z)](https://codecov.io/gh/mpbalmeida/mssc-beer-inventory-marcos)
 
-# MSSC Beer Inventory
+# MSSC Beer Inventory Service
 
 This project is based
 on [MSSC Beer Service](https://github.com/springframeworkguru/mssc-beer-inventory/blob/master/README.md) with some
