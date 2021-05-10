@@ -1,5 +1,11 @@
 server:
   port: 8082
+
+spring:
+  artemis:
+    user: artemis
+    password: simetraehcapa
+
 logging:
   level:
     dev.marcosalmeida: debug
