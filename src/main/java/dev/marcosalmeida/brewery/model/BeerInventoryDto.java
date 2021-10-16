@@ -1,4 +1,4 @@
-package dev.marcosalmeida.beerinventory.web.model;
+package dev.marcosalmeida.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

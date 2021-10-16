@@ -2,7 +2,7 @@ package dev.marcosalmeida.beerinventory.web.mapper;
 
 
 import dev.marcosalmeida.beerinventory.domain.BeerInventory;
-import dev.marcosalmeida.beerinventory.web.model.BeerInventoryDto;
+import dev.marcosalmeida.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

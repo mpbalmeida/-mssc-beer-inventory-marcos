@@ -1,4 +1,4 @@
-package dev.marcosalmeida.common.events;
+package dev.marcosalmeida.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

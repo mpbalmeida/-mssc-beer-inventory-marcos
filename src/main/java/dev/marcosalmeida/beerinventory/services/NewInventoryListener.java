@@ -2,9 +2,9 @@ package dev.marcosalmeida.beerinventory.services;
 
 import dev.marcosalmeida.beerinventory.config.JmsConfig;
 import dev.marcosalmeida.beerinventory.domain.BeerInventory;
-import dev.marcosalmeida.common.events.BeerDto;
-import dev.marcosalmeida.common.events.NewInventoryEvent;
 import dev.marcosalmeida.beerinventory.repository.BeerInventoryRepository;
+import dev.marcosalmeida.brewery.model.events.BeerDto;
+import dev.marcosalmeida.brewery.model.events.NewInventoryEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;

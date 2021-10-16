@@ -2,7 +2,7 @@ package dev.marcosalmeida.beerinventory.web.controller;
 
 import dev.marcosalmeida.beerinventory.repository.BeerInventoryRepository;
 import dev.marcosalmeida.beerinventory.web.mapper.BeerInventoryMapper;
-import dev.marcosalmeida.beerinventory.web.model.BeerInventoryDto;
+import dev.marcosalmeida.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

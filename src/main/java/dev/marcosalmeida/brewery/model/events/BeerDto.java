@@ -1,4 +1,4 @@
-package dev.marcosalmeida.common.events;
+package dev.marcosalmeida.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
